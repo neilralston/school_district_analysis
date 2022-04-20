@@ -66,9 +66,8 @@ Revised School Summary (Version 2)
 ![School_Summary_Revised_Image](school_key_metrics_rev2.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-With the original test score dataset, Thomas High School ranked second in the district for overall student passing percentage.
-
-After the test scores for Thomas High School were replaced with data for students in grades ten through twelve only, the school continued to rank second in the district.
+	* With the original test score dataset, Thomas High School ranked second in the district for overall student passing percentage.
+	* After the test scores for Thomas High School were replaced with data for students in grades ten through twelve only, the school continued to rank second in the district.
 
 * How does replacing the ninth-grade scores affect the following:
 
