@@ -36,29 +36,33 @@ This project was prepared using the following:
 ## School District Analysis Results
 
 * How is the district summary affected?
-1. The average district-wide math score decreased by 0.1%.
-2. The average district-wide reading score increased by 2.9%
-3. There was no substantive change in the district-wide percent of students passing math.
-4. There was no substantive change in the district-wide percent of students passing reading.
-5. There was no substantive change in the district-wide overall passing percent.
+	1. The average district-wide math score decreased by 0.1%.
+	2. The average district-wide reading score increased by 2.9%
+	3. There was no substantive change in the district-wide percent of students passing math.
+	4. There was no substantive change in the district-wide percent of students passing reading.
+	5. There was no substantive change in the district-wide overall passing percent.
 
 
 Original District Summary
+
 ![District_Summary_Original_Image](district_key_metrics_orig.PNG)
 
 Revised District Summary
+
 ![District_Summary_Revised_Image](district_key_metrics_rev.PNG)
 
 * How is the school summary affected?
-1. When the ninth grade test scores were replaced with NaaN values, the overall passing percentage for Thomas High School decreased from 91% to 65%, as demonstrated by the highlighted rows below.
+	1. When the ninth grade test scores were replaced with NaaN values, the overall passing percentage for Thomas High School decreased from 91% to 65%, as demonstrated by the highlighted rows below.
 
 Original School Summary
+
 ![School_Summary_Original_Image](school_key_metrics_orig.PNG)
 
 Revised School Summary (Version 1)
+
 ![School_Summary_Revised_Image](school_key_metrics_rev.PNG)
 
-2. After the test scores for Thomas High School were replaced with data for students in grades ten through twelve only, the overall passing percentage increased back to 91%.
+	2. After the test scores for Thomas High School were replaced with data for students in grades ten through twelve only, the overall passing percentage increased back to 91%.
 
 Revised School Summary (Version 2)
 ![School_Summary_Revised_Image](school_key_metrics_rev2.PNG)
