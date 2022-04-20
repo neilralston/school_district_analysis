@@ -28,7 +28,7 @@ This project was prepared using the following:
 * Jupyter Notebook 6.4.5
 
 * Source data provided by the School District: 
-*
+
 [Link to cleaned student source data](clean_students_complete.csv)
 
 [Link to school source data](schools_complete.csv)
