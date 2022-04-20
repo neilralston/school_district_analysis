@@ -63,6 +63,7 @@ Revised School Summary (Version 1)
 ![School_Summary_Revised_Image](school_key_metrics_rev.PNG)
 
 Revised School Summary (Version 2)
+
 ![School_Summary_Revised_Image](school_key_metrics_rev2.PNG)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -74,39 +75,50 @@ Revised School Summary (Version 2)
 	* Math and reading scores by grade
 
 Original Math Scores
+
 ![Original_Math_Scores_Image](math_scores_grade_orig.PNG)
 
 Revised Math Scores
+
 ![Revised_Math_Scores_Image](math_scores_grade_rev.PNG)
 
 Original Reading Scores
+
 ![Original_Reading_Scores_Image](reading_scores_grade_orig.PNG)
 
 Revised Reading Scores
+
 ![Revised_Reading_Scores_Image](reading_scores_grade_rev.PNG)
 
 	* Scores by school spending
 
 Original Scores by school spending
+
 ![Original_Scores_by_school_spending_Image](spending_summary_orig.PNG)
 
 Revised Scores by school spending
+
 ![Revised_Scores_by_school_spending_Image](spending_summary_rev.PNG)
 
 	* Scores by school size
+	
 Original Scores by school size
+
 ![Original_Scores_by_school_size_Image](size_summary_orig.PNG)
 
 Revised Scores by school size
+
 ![Revised_Scores_by_school_size_Image](size_summary_rev.PNG)
 
 	* Scores by school type
+	
 Original Scores by school type
+
 ![Original_Scores_by_school_type_Image](type_summary_orig.PNG)
 
 Revised Scores by school type
-![Revised_Scores_by_school_type_Image](type_summary_rev.PNG)
 
+![Revised_Scores_by_school_type_Image](type_summary_rev.PNG)
 
 ## School District Analysis Summary
 The following items changed in the school district analysis after reading and math scores for ninth graders at Thomas High School were replaced with NaNs:
