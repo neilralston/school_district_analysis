@@ -62,7 +62,7 @@ Revised School Summary (Version 1)
 
 ![School_Summary_Revised_Image](school_key_metrics_rev.PNG)
 
-	2. After the test scores for Thomas High School were replaced with data for students in grades ten through twelve only, the overall passing percentage increased back to 91%.
+2. After the test scores for Thomas High School were replaced with data for students in grades ten through twelve only, the overall passing percentage increased back to 91%.
 
 Revised School Summary (Version 2)
 ![School_Summary_Revised_Image](school_key_metrics_rev2.PNG)
