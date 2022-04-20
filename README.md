@@ -15,7 +15,7 @@ Provided the following assessments:
 * Average math and reading scores received by students in each grade level at each school.
 * School performance based on budget per student, school size, and type of school.
 
-2. Provided additional assessment to recompute key metrics with a subset removed from the dataset (math and reading scores for ninth graders at Thomas High School).
+4. Provided additional assessment to recompute key metrics with a subset removed from the dataset (math and reading scores for ninth graders at Thomas High School).
 * Replaced ninth-grade reading and math scores with NaaN values.
 * Replaced performance scores for Thomas High School with data only including students in grades ten through twelve.
 * Repeated the school district analysis completed in items #1-3 above.
