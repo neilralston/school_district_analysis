@@ -72,7 +72,7 @@ Revised School Summary (Version 2)
 
 * How does replacing the ninth-grade scores affect the following:
 
-	* Math and reading scores by grade
+* Math and reading scores by grade
 
 Original Math Scores
 
@@ -90,7 +90,7 @@ Revised Reading Scores
 
 ![Revised_Reading_Scores_Image](reading_scores_grade_rev.PNG)
 
-	* Scores by school spending
+* Scores by school spending
 
 Original Scores by school spending
 
@@ -100,7 +100,7 @@ Revised Scores by school spending
 
 ![Revised_Scores_by_school_spending_Image](spending_summary_rev.PNG)
 
-	* Scores by school size
+* Scores by school size
 	
 Original Scores by school size
 
@@ -110,7 +110,7 @@ Revised Scores by school size
 
 ![Revised_Scores_by_school_size_Image](size_summary_rev.PNG)
 
-	* Scores by school type
+* Scores by school type
 	
 Original Scores by school type
 
@@ -126,6 +126,3 @@ The following items changed in the school district analysis after reading and ma
 2. The average district-wide math score decreased by 0.1%.
 3. The average district-wide reading score increased by 2.9%
 4. There was no substantive change in the district-wide percent of students passing math or reading.
-
-
-
