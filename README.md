@@ -84,11 +84,11 @@ Revised Math Scores
 
 Original Reading Scores
 
-![Original_Reading_Scores_Image](reading_scores_grade_orig.PNG)
+
 
 Revised Reading Scores
 
-![Revised_Reading_Scores_Image](reading_scores_grade_rev.PNG)
+
 
 * Scores by school spending
 
