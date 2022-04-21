@@ -72,7 +72,7 @@ Revised School Summary (Version 2)
 
 * How does replacing the ninth-grade scores affect the following:
 
-* Math and reading scores by grade
+Math and reading scores by grade
 
 Original Math Scores
 
@@ -90,7 +90,7 @@ Revised Reading Scores
 
 
 
-* Scores by school spending
+Scores by school spending
 
 Original Scores by school spending
 
@@ -100,7 +100,7 @@ Revised Scores by school spending
 
 ![Revised_Scores_by_school_spending_Image](spending_summary_rev.PNG)
 
-* Scores by school size
+Scores by school size
 	
 Original Scores by school size
 
@@ -110,7 +110,7 @@ Revised Scores by school size
 
 ![Revised_Scores_by_school_size_Image](size_summary_rev.PNG)
 
-* Scores by school type
+_Scores by school type_
 	
 Original Scores by school type
 
